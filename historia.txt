@@ -1,4 +1,5 @@
 Mi nombre es Nicolás Murcia
 
-Tengo 24 años y voy a ser el mejor programador,
-vivo en latinoamerica y hablaremos de su obra maestra
+Tengo 24 años y voy a ser el mejor programador
+
+Mañana nos enfocaremos en su vida laboral
