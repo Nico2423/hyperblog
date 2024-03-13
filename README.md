@@ -8,4 +8,7 @@ Como pueden ver, profundo fan de mi señor Cristiano Ronaldo Dos Santos Aveiro..
 *Creado por el increíble Nicolás
 
 *Incluye ejemplos en Windows, Linux y Mac
+
+*Disponible para todas las edades
+
 SIUUUU
